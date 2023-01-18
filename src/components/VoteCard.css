@@ -1,0 +1,9 @@
+.vote-card {
+  background-color: gray;
+}
+.meme-img {
+  /* margin-top: 1em; */
+  height: 100px;
+  max-width: 100%;
+  /* box-shadow: 0 0 10px rgba(212, 228, 228, 0.61); */
+}
